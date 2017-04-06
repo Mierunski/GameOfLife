@@ -1,5 +1,6 @@
 # GameOfLife
 My game of life implementation
+
 Date: 2016-12-06
 
 # Description
